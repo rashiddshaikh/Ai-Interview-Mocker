@@ -25,7 +25,7 @@ function InterviewList() {
         setInterviewList(result);
     }
 
-  return (
+return (
     <div>
         <h2 className='font-medium text-xl'>Previous Mock Interview</h2>
 
@@ -43,7 +43,7 @@ function InterviewList() {
         }
         </div>
     </div>
-  )
+)
 }
 
 export default InterviewList
