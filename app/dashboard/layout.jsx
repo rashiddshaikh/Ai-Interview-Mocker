@@ -9,10 +9,7 @@ function DashboardLayout({children}) {
         <Header/>
         <div className='mx-5 md:mx-20 lg:mx-36'>
         {children}
-         <SpeedInsights /> 
-              <Analytics />
         </div>
-       
     </div>
   )
 }
