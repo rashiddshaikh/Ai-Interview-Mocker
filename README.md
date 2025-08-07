@@ -95,8 +95,8 @@ For major changes, please [open an issue first](https://github.com/rashiddshaikh
 
 ---
 ## 🙏 Acknowledgments 
-- Google Generative AI for the powerful LLM API
-- Clerk.dev for seamless auth integration
-- Vercel for effortless deployment
-- Open-source community ❤️
+Google Generative AI for the powerful LLM API
+Clerk.dev for seamless auth integration
+Vercel for effortless deployment
+Open-source community ❤️
 ---
