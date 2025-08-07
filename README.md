@@ -77,20 +77,24 @@ out/
 ![GitHub last commit](https://img.shields.io/github/last-commit/rashiddshaikh/ai-interview-mocker)
 
 ---
-##📄 License
+## 📄 License  
 This project is licensed under the MIT License.
+
 ---
-##✍️ Author
-Rashid Shaikh
-🔗 GitHub: @rashiddshaikh
-🔗 LinkedIn: linkedin.com/in/rashidshaikh-dev
-📧 Email: rashiddsk05@gmail.com
+
+## ✍️ Author  
+**Rashid Shaikh**  
+🔗 GitHub: [@rashiddshaikh](https://github.com/rashiddshaikh)  
+🔗 LinkedIn: [https://linkedin.com/in/rashidshaikh-dev](https://linkedin.com/in/rashidshaikh-dev)  
+📧 Email: [rashiddsk05@gmail.com](mailto:rashiddsk05@gmail.com)
+
 ---
-##🌟 Contributing
-- Pull requests are welcome!
-- For major changes, please open an issue first.
+## 🌟 Contributing  
+Pull requests are welcome!  
+For major changes, please [open an issue first](https://github.com/rashiddshaikh/online-shoe-store/issues).
+
 ---
-##🙏 Acknowledgments
+## 🙏 Acknowledgments 
 - Google Generative AI for the powerful LLM API
 - Clerk.dev for seamless auth integration
 - Vercel for effortless deployment
