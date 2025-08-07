@@ -57,7 +57,8 @@ Open http://localhost:3000 to view the app.
 - Text-to-text generative models simulate realistic interview responses.
 ---
 
-##🛡️ .gitignore
+## 🛡️ .gitignore
+Make sure you have the following in your .gitignore file:
 ```gitignore
 .env.local
 node_modules/
