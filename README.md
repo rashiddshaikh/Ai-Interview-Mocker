@@ -94,9 +94,11 @@ Pull requests are welcome!
 For major changes, please [open an issue first](https://github.com/rashiddshaikh/online-shoe-store/issues).
 
 ---
-## 🙏 Acknowledgments 
-Google Generative AI for the powerful LLM API
-Clerk.dev for seamless auth integration
-Vercel for effortless deployment
-Open-source community ❤️
+## 🙏 Acknowledgments
+
+- [Google Generative AI](https://ai.google.dev/) for the powerful LLM API  
+- [Clerk.dev](https://clerk.dev/) for seamless authentication integration  
+- [Vercel](https://vercel.com/) for effortless deployment  
+- The open-source community ❤️ for the tools and inspiration  
+
 ---
