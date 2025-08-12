@@ -51,8 +51,6 @@ DATABASE_URL=your_db_url
 npm run dev
 ```
 
-Open http://localhost:3000 to view the app.
-
 ---
 ## 🧠 Model Usage
 - Uses @google/generative-ai to generate dynamic answers.
