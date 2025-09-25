@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 **Rashid Shaikh**  
 🔗 GitHub: [@rashiddshaikh](https://github.com/rashiddshaikh)  
 🔗 LinkedIn: [https://linkedin.com/in/rashidshaikh-dev](https://linkedin.com/in/rashidshaikh-dev)  
-📧 Email: [rashiddsk05@gmail.com](mailto:rashiddsk05@gmail.com)
+📧 Email: [rashidshaikh.dev@gmail.com](mailto:rashidshaikh.dev@gmail.com)
 
 ---
 ## 🌟 Contributing  
